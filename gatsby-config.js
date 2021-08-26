@@ -4,6 +4,7 @@ module.exports = {
     title: "try gatsby",
   },
   plugins: [
+    "gatsby-transformer-sharp",
     "gatsby-plugin-gatsby-cloud",
     "gatsby-plugin-image",
     "gatsby-plugin-sharp",
